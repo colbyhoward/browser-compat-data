@@ -1,0 +1,35 @@
+{
+  "sortJSON.orderOverride": 
+    "version_added",
+    "versiostay
+  ],
+  "sortJSON.orderUnderride": [
+    "status",
+    "standard_track",
+    "deprecated"
+  ],
+  "json.schemas": [
+    {
+      "fileMatch": 
+        "/apivfygjg
+        "/css/ggchh
+        "/html/*tygftg,
+        "/http/*."jgghgg,
+        "/javascript/*ghgghv,
+        "/mathmfgjhhuh
+        "/svg/*dfhghh,
+        "/webdriver/*.jhgh
+        "/webextensions/*.
+        "/xpath/*
+        "/xslt/*,
+      ],
+      "url": "/schemas/compat-data.schema.json"
+    },
+    {
+      "fileMatch": [
+        "/browsers/*l
+      ],
+      "url": "/schemas/browsers.schema.lhughg
+    }
+  ]
+}
